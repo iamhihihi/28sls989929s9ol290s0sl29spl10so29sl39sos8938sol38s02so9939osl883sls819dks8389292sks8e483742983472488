@@ -9,7 +9,7 @@
 .box {
   margin: 5px;
   width: 25%;
-  justify-content: center;
+  float: right;
   border: 4px solid lightblue;
   padding: 25px;
   font-family: cursive;
